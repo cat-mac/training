@@ -1,0 +1,12 @@
+body 
+    {background:rgb(203, 77, 13);
+    color:white;
+    text-align: center;}
+
+   h1 {color: aliceblue; font-family: sans-serif;}
+
+   div 
+   { border:1px dashed white;
+    padding: 10px;
+    width:600px;
+    margin: auto;}
